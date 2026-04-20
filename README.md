@@ -30,8 +30,3 @@
 
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=xicon12&icon=2&color=13" alt="Visitor Count">
-  </a>
-</div>
