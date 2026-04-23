@@ -19,7 +19,7 @@
 - **[NuGames](https://github.com/mirzashaheer4/NuGames)** - A collection of retro-inspired arcade games reimagined with modern neon graphics and smooth gameplay.
 - **[NuQuizzer](https://github.com/mirzashaheer4/NuQuizzer)** - A dynamic quiz application built for interactive learning and assessment.
 - **[NUsphere](https://nusphere.pk/)** - A comprehensive student management portal for tracking attendance, grades, and academic schedules with ease.
-- **[Custom Shell](https://github.com/mirzashaheer4/Custom_Shell)** - A powerful custom command-line interface focused on security and flexibility.
+- **[CyberShell](https://github.com/mirzashaheer4/CyberShell)** - A powerful custom command-line interface focused on security and flexibility.
 
 # 📊 GitHub Stats:
 <p align="center">
